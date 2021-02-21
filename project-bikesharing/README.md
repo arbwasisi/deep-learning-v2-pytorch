@@ -1,3 +1,5 @@
+# Udacity Bike Sharing Prediction Project
+
 First project for Udacity's Deep Learning Nanodegree.
 
 In this project we are tasked with building a neural network to predict riders daily 
